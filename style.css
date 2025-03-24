@@ -71,6 +71,7 @@ body{
     align-items: center;
     gap: 20px;
     font-size: 14px;
+    padding:10px;
 }
 .temp h4{
     font-size: 22px;
